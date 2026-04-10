@@ -28,5 +28,5 @@ QR コードをスキャンまたは短縮 URL を入力でこのリポジトリ
 - https://is.gd/82qnRa
 
 #### Link
-[EfiGuard](https://github.com/Mattiwatti/EfiGuard/)
-[Secure Boot troubleshooting guide](https://support.microsoft.com/en-us/topic/secure-boot-troubleshooting-guide-5d1bf6b4-7972-455a-a421-0184f1e1ed7d#bkmk_common_failure_scenarios_and_resolutions)
+- [Microsoft - Secure Boot troubleshooting guide](https://support.microsoft.com/en-us/topic/secure-boot-troubleshooting-guide-5d1bf6b4-7972-455a-a421-0184f1e1ed7d#bkmk_common_failure_scenarios_and_resolutions)
+- [EfiGuard](https://github.com/Mattiwatti/EfiGuard/)
