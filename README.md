@@ -10,3 +10,21 @@ Windows で Secure Boot Violation が発生する状態を修正します。
 
 本来は Windows が通常起動する環境が必須ですが、他のプラットフォームからでもセキュアブートの問題を解決するための USB メモリを作成することができます。
 **FAT32 でフォーマット**した USB メモリにファイルをディレクトリごとコピーすればブータブルが作成可能です。
+
+#### Shortcut
+Scan the QR code or enter the short URL to access the repository.
+
+QR コードをスキャンまたは短縮 URL を入力でこのリポジトリにアクセスできます。
+
+**QR Code**
+
+![QR](img/qr.png)
+
+**URL**
+
+- https://x.gd/rhbb6
+- https://0.gp/50rfq64r
+- https://kuku.lu/s3c3068
+- https://is.gd/82qnRa
+
+
