@@ -27,4 +27,6 @@ QR コードをスキャンまたは短縮 URL を入力でこのリポジトリ
 - https://kuku.lu/s3c3068
 - https://is.gd/82qnRa
 
+#### Link
+[EfiGuard](https://github.com/Mattiwatti/EfiGuard/)
 
